@@ -4,14 +4,6 @@ This is a MATLAB app that can be used to simulate a spring mass damper system un
 
 ## Useful Links
 
-This application was made as part of a video series to teach Linear Controls theory. This was made to augment AERO 625 at Texas A&M university for those who have not had undergraduate controls courses. The videos can be found here:
-
-https://www.youtube.com/playlist?list=PL-t7_t3CzJkMvHt0An0ZTc5OAfXc8Wwkz
-
-The specific video introducing this application can be found here:
-
-https://youtu.be/6I-UxwgsnPU
-
 Much of this course and the comments in the code used to create this app are drawn from the textbook The Control Book, by Randy Beard, Tim McLain, and Cammy Peterson. A fee copy can be found here:
 
 https://controlbook.byu.edu
@@ -54,7 +46,7 @@ From the drop down select the Controls Playground application.
 
 ### Operation
 
-To change the simulation simply move the sliders. Pressing a 0 button will move that slider back to 0. Pressing the R button will reset the slider to some default value. There are several different categories of sliders. Including:
+To change the simulation simply move the sliders. Pressing a 0 button will move that slider back to 0. Pressing the R button will reset the slider to some default value. If a number is typed in the reset box then pressing the R button will set the slider to that value. Make sure the value in the reset box is within the range of the slider.  There are several different categories of sliders. Including:
 
 - Intial Conditions
 - System Parameters
